@@ -1,3 +1,0 @@
-# TryHackMe - Room Writeup
-
-Coming soon...

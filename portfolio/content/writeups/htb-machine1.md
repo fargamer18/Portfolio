@@ -1,3 +1,0 @@
-# HackTheBox - Machine Writeup
-
-Coming soon...
