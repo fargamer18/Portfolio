@@ -1,0 +1,6 @@
+{{- $items := slice -}}
+{{- range .Pages -}}
+{{- $item := dict "name" (printf "%s.md" .File.BaseFileName) "title" .Title "content" .RawContent -}}
+{{- $items = $items | append $item -}}
+{{- end -}}
+{{- $items | jsonify -}}

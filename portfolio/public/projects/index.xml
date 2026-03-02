@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on portfolio</title>
+    <link>http://localhost:51775/projects/</link>
+    <description>Recent content in Projects on portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:51775/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:51775/projects/controller-emulator/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51775/projects/controller-emulator/</guid>
+      <description>&lt;h1 id=&#34;controller-emulator-tui&#34;&gt;Controller Emulator (TUI)&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tech:&lt;/strong&gt; Python, Textual, vgamepad, evdev&lt;/p&gt;&#xA;&lt;p&gt;Designed a terminal-based (Textual) application that maps keyboard input&#xA;to a virtual gamepad, supporting Xbox, DualShock, and Wii profiles&#xA;with a modal keybind editor.&lt;/p&gt;&#xA;&lt;p&gt;Implemented profile persistence (profiles.json) and cross-platform&#xA;support (Windows via vgamepad, Linux via uinput/evdev).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:51775/projects/nixos-manager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51775/projects/nixos-manager/</guid>
+      <description>&lt;h1 id=&#34;nixos-install-manager&#34;&gt;NixOS Install Manager&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Tech:&lt;/strong&gt; C, GPG, NixOS&lt;/p&gt;&#xA;&lt;p&gt;Created a secure, C-based utility that manages NixOS system packages&#xA;through a GPG-encrypted file, decrypting, editing, and re-encrypting&#xA;before triggering nixos-rebuild.&lt;/p&gt;&#xA;&lt;p&gt;Employs trie data structures for safe package lookups&#xA;and ensures secure memory handling.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:51775/projects/remote-agent/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51775/projects/remote-agent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:51775/projects/zero-trust-fileshare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51775/projects/zero-trust-fileshare/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
